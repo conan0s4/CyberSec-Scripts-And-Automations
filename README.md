@@ -1,4 +1,1 @@
-<h1 style="text-align:center";>Conan0s4 Scripts/automations</h1>
-
-
-<p style="text-align:center"; >  test  </p>
+<h1 align="center" style="font-size: 80px;">CONAN0S4 SCRIPTS / AUTOMATIONS </h1>
