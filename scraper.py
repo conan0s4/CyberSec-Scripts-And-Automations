@@ -11,8 +11,16 @@ x = requests.get(url)
 soup = BeautifulSoup(x.content, "html.parser")
 
 
-res = soup.find_all('link')
+#filter using html tags
+res = soup.find_all('script')
 print(res)
+
+
+
+
+with open('index.html', 'r') as x :
+    content = x.read()
+    print(content)
 
 
 
