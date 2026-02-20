@@ -11,7 +11,7 @@ x = requests.get(url)
 soup = BeautifulSoup(x.content, "html.parser")
 
 
-res = soup.find_all('span')
+res = soup.find_all('link')
 print(res)
 
 
