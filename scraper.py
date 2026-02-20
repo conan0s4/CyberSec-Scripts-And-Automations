@@ -12,9 +12,11 @@ soup = BeautifulSoup(x.content, "html.parser")
 
 
 #filter using html tags
-res = soup.find_all('script')
+res = soup.find_all('link')
 print(res)
 
+
+res1 = soup.find_all(string="user")
 
 
 
