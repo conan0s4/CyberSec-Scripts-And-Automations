@@ -20,7 +20,7 @@ res1 = soup.find_all(string="user")
 
 
 
-with open('index.html', 'r') as x :
+with open('test files/index.html', 'r') as x :
     content = x.read()
     print(content)
 

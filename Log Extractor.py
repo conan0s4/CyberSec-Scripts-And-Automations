@@ -7,7 +7,7 @@ import re
 
 #location :  /var/log/auth.log
 
-with open("file.txt") as f:
+with open("test files/file.txt") as f:
     x = re.findall(  r"[<ip>\s* (\d*.\d*.\d*.\d*)]", f.read())
     print(x)
 
