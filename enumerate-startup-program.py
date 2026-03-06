@@ -1,7 +1,8 @@
 import subprocess
 
 
-Res = subprocess.run(["net" , "user"])
+r6s = subprocess.run(["net" , "user"])
+print(r6s)
 
 #startup for all users
 res = subprocess.run(["dir" , r"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp"] ,shell=True) #if built in terminal not exe
