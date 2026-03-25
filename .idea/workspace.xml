@@ -41,6 +41,7 @@
     "Python.Port Collation.executor": "Run",
     "Python.Safe Float Comparison.executor": "Run",
     "Python.command-exec.executor": "Run",
+    "Python.crtsh_subs.executor": "Run",
     "Python.enumerate-startup-program.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.scraper.executor": "Run",
@@ -57,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises " />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\test files" />
