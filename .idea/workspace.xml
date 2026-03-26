@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b168826-6abf-4395-a3b9-b960bd64ee93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cs Ideas/In-memory-malware-sample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log Extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs Ideas/Log Extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumerate-startup-program.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs Ideas/enumerate-startup-program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs Ideas/scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test files/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cs Ideas/test files/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cs Ideas/test files/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +49,7 @@
     "Python.command-exec.executor": "Run",
     "Python.crtsh_subs.executor": "Run",
     "Python.enumerate-startup-program.executor": "Run",
+    "Python.in-memory-malware-example.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.scraper.executor": "Run",
     "Python.string builder benchmark.executor": "Run",
@@ -58,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\cs Ideas" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises " />
@@ -78,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\enumerate-startup-program.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\cs Ideas\enumerate-startup-program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
