@@ -1,5 +1,5 @@
 '''''''''
-in memory malware w/ obfuscation
+in memory malware w/ string obfuscation
 basic 
 
 
