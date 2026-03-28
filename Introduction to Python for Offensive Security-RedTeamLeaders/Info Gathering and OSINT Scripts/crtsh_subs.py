@@ -16,6 +16,7 @@ status: not done
 
 import httpx
 
+
 crt_web = "https://crt.sh/"
 web_target = input("input target: ")
 query = {'q':f"%.{web_target}","output":"json"}
@@ -24,8 +25,15 @@ with httpx.Client() as client:
     r = httpx.get(crt_web, params=query)
     data = r.json()
     print(data)
+    print("""
+    -------------------------------------------------------------------------------
+                                    Sub-Domains:
+    -------------------------------------------------------------------------------
+    """)
 
 
+for item in data:
+    print(item["common_name"])
 
 
 
