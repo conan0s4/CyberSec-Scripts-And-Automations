@@ -11,7 +11,6 @@ wildcard search query
 Find All Subdomains: %.target.com (e.g., %.google.com) returns all subdomains, excluding the apex domain itself.
 
 
-status: not done 
 '''''''''
 
 import httpx
