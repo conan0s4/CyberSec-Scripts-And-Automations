@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b168826-6abf-4395-a3b9-b960bd64ee93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cs Ideas/fuzzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts/crtsh_subs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts/crtsh_subs.py" afterDir="false" />
     </list>
@@ -24,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -32,33 +36,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Endianness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Log Extractor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mutable XOR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Port Collation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Safe Float Comparison.executor&quot;: &quot;Run&quot;,
-    &quot;Python.command-exec.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crtsh_subs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.enumerate-startup-program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.in-memory-malware-example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scraper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string builder benchmark.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string obfuscation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.subprocess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.truthiness audit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web scraper.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Endianness.executor": "Run",
+    "Python.Log Extractor.executor": "Run",
+    "Python.Mutable XOR.executor": "Run",
+    "Python.Port Collation.executor": "Run",
+    "Python.Safe Float Comparison.executor": "Run",
+    "Python.command-exec.executor": "Run",
+    "Python.crtsh_subs.executor": "Run",
+    "Python.enumerate-startup-program.executor": "Run",
+    "Python.fuzzer.executor": "Run",
+    "Python.in-memory-malware-example.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.scraper.executor": "Run",
+    "Python.string builder benchmark.executor": "Run",
+    "Python.string obfuscation.executor": "Run",
+    "Python.subprocess.executor": "Run",
+    "Python.truthiness audit.executor": "Run",
+    "Python.web scraper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations" />
