@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4b168826-6abf-4395-a3b9-b960bd64ee93" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/Log Extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/enumerate-startup-program.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/fuzzer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/scraper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/test files/file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/test files/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs Ideas/test files/subdomains-top1million-110000.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.DNS 3xtractor.executor": "Run",
     "Python.Endianness.executor": "Run",
     "Python.Log Extractor.executor": "Run",
     "Python.Mutable XOR.executor": "Run",
@@ -72,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\scripts\network analysis script" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\cs Ideas" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises" />
-      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises " />
     </key>
   </component>
   <component name="RunManager">
