@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b168826-6abf-4395-a3b9-b960bd64ee93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/network analysis script/DNS 3xtractor.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,36 +36,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.DNS 3xtractor.executor": "Run",
-    "Python.Endianness.executor": "Run",
-    "Python.Log Extractor.executor": "Run",
-    "Python.Mutable XOR.executor": "Run",
-    "Python.Port Collation.executor": "Run",
-    "Python.SSL-TLS  certificate checker.executor": "Run",
-    "Python.Safe Float Comparison.executor": "Run",
-    "Python.command-exec.executor": "Run",
-    "Python.crtsh_subs.executor": "Run",
-    "Python.enumerate-startup-program.executor": "Run",
-    "Python.fuzzer.executor": "Run",
-    "Python.in-memory-malware-example.executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.scraper.executor": "Run",
-    "Python.string builder benchmark.executor": "Run",
-    "Python.string obfuscation.executor": "Run",
-    "Python.subprocess.executor": "Run",
-    "Python.truthiness audit.executor": "Run",
-    "Python.web scraper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DNS 3xtractor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Endianness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Log Extractor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mutable XOR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.N3twork-Analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Port Collation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SSL-TLS  certificate checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Safe Float Comparison.executor&quot;: &quot;Run&quot;,
+    &quot;Python.command-exec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crtsh_subs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enumerate-startup-program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fuzzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.in-memory-malware-example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scraper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string builder benchmark.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string obfuscation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.subprocess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.truthiness audit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.web scraper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\scripts\network analysis script" />
@@ -73,7 +76,29 @@
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.N3twork-Analyzer">
+    <configuration name="N3twork-Analyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CyberSec-Scripts-And-Automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/network analysis script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="enumerate-startup-program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CyberSec-Scripts-And-Automations" />
       <option name="ENV_FILES" value="" />
@@ -98,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.N3twork-Analyzer" />
         <item itemvalue="Python.enumerate-startup-program" />
       </list>
     </recent_temporary>
