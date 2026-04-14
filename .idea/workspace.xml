@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b168826-6abf-4395-a3b9-b960bd64ee93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/network analysis script/DNS 3xtractor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts/crtsh_subs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts/crtsh_subs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.N3twork-Analyzer">
+  <component name="RunManager">
     <configuration name="N3twork-Analyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CyberSec-Scripts-And-Automations" />
       <option name="ENV_FILES" value="" />

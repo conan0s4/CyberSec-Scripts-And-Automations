@@ -1,7 +1,7 @@
 from scapy.all import rdpcap
 from scapy.layers.dns import DNS, DNSQR
 from scapy.layers.inet import IP
-# not done
+
 def ip_idnt(pcap):
     packets = rdpcap(pcap)
     ip_inspect = [pkt for pkt in packets if pkt.haslayer(IP)]
