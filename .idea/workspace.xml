@@ -49,6 +49,7 @@
     &quot;Python.Safe Float Comparison.executor&quot;: &quot;Run&quot;,
     &quot;Python.command-exec.executor&quot;: &quot;Run&quot;,
     &quot;Python.crtsh_subs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crtsh_subs.py -h.executor&quot;: &quot;Run&quot;,
     &quot;Python.enumerate-startup-program.executor&quot;: &quot;Run&quot;,
     &quot;Python.fuzzer.executor&quot;: &quot;Run&quot;,
     &quot;Python.in-memory-malware-example.executor&quot;: &quot;Run&quot;,
@@ -60,6 +61,7 @@
     &quot;Python.truthiness audit.executor&quot;: &quot;Run&quot;,
     &quot;Python.web scraper.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -75,7 +77,7 @@
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\1-2-10 Exercises" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.crtsh_subs">
     <configuration name="N3twork-Analyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CyberSec-Scripts-And-Automations" />
       <option name="ENV_FILES" value="" />
@@ -91,6 +93,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" />
       <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crtsh_subs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CyberSec-Scripts-And-Automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts/crtsh_subs.py" />
+      <option name="PARAMETERS" value="--target example.org -a" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -120,8 +144,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.crtsh_subs" />
+      <item itemvalue="Python.enumerate-startup-program" />
+      <item itemvalue="Python.N3twork-Analyzer" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.crtsh_subs" />
         <item itemvalue="Python.N3twork-Analyzer" />
         <item itemvalue="Python.enumerate-startup-program" />
       </list>
