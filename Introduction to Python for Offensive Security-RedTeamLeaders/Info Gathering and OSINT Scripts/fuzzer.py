@@ -3,7 +3,7 @@ import httpx
 web_target = input("input target: ")
 
 
-with open("test files/subdomains-top1million-110000.txt") as f:
+with open("../../scripts/test files/subdomains-top1million-110000.txt") as f:
     for item in f:
         sub = item.strip()
         url = f"https://{web_target}/{sub}"
