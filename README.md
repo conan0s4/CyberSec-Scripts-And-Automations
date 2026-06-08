@@ -33,26 +33,6 @@ This repository contains scripts, utilities, and automation tools designed to st
 <span style="display:inline-block; padding:6px 10px; margin:3px; background:#f3e5f5; border-radius:6px;">Experimentation</span>
 </div>
 
-<h2>Objectives</h2>
-
-<ul>
-    <li>Automate repetitive tasks and workflows.</li>
-    <li>Improve efficiency and execution speed.</li>
-    <li>Develop and refine scripting skills.</li>
-    <li>Experiment with new automation techniques.</li>
-    <li>Build reusable tools for future projects.</li>
-</ul>
-
-<h2>Contents</h2>
-
-<ul>
-    <li>Workflow automation scripts</li>
-    <li>Cybersecurity and DFIR utilities</li>
-    <li>System administration tools</li>
-    <li>Productivity tools and helpers</li>
-    <li>Experimental scripting projects</li>
-</ul>
-
 <h2>Disclaimer</h2>
 
 <p>
