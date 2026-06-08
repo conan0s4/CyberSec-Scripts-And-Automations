@@ -23,7 +23,8 @@ Efficiency Through Automation
 <h2>Overview</h2>
 
 <p>
-This repository contains scripts, utilities, and automation tools designed to streamline workflows, remove repetitive tasks, and improve productivity. It also serves as a structured environment for developing scripting skills through experimentation and practical implementation.
+This repository is a curated collection of scripts and automation tools created for practice and educational purposes, with the goal of improving efficiency in cybersecurity workflows. It is primarily focused on blue teaming, especially DFIR (Digital Forensics and Incident Response), while also including a few offensive security (offsec) scripts for controlled learning, experimentation, and skill development.The main purpose of these tools is to streamline repetitive investigative and analysis tasks, support incident response workflows, and reinforce practical understanding of core cybersecurity concepts through hands-on implementation rather than purely theoretical study.
+
 </p>
 
 <div style="margin:15px 0;">
