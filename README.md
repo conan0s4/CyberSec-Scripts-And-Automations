@@ -1,31 +1,46 @@
+<div style="font-family: Arial, sans-serif;">
+
 <div align="center">
 
 <h1 style="font-size:80px; margin-bottom:0;">
 CONAN0S4 SCRIPTS / AUTOMATIONS
 </h1>
 
-<p>
+<p style="font-size:18px; color:#666;">
 Efficiency Through Automation
 </p>
 
+<!-- Badges -->
+<img src="https://img.shields.io/badge/Focus-Automation-blue" />
+<img src="https://img.shields.io/badge/Type-Scripts-green" />
+<img src="https://img.shields.io/badge/Purpose-Productivity-orange" />
+<img src="https://img.shields.io/badge/Status-Active-success" />
+
 </div>
 
-<hr>
+<hr style="margin:20px 0;">
 
 <h2>Overview</h2>
 
 <p>
-This repository contains scripts, utilities, and automation projects designed to streamline workflows, eliminate repetitive tasks, and improve productivity. It also serves as a space for developing scripting skills through hands-on experimentation and practical implementations.
+This repository contains scripts, utilities, and automation tools designed to streamline workflows, remove repetitive tasks, and improve productivity. It also serves as a structured environment for developing scripting skills through experimentation and practical implementation.
 </p>
+
+<div style="margin:15px 0;">
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#e3f2fd; border-radius:6px;">Automation</span>
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#e8f5e9; border-radius:6px;">Scripting</span>
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#fff3e0; border-radius:6px;">Productivity</span>
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#f3e5f5; border-radius:6px;">Experimentation</span>
+</div>
 
 <h2>Objectives</h2>
 
 <ul>
-    <li>Automate repetitive tasks.</li>
-    <li>Improve workflow efficiency.</li>
-    <li>Develop scripting and programming skills.</li>
-    <li>Experiment with automation concepts and implementations.</li>
-    <li>Create reusable tools for future use.</li>
+    <li>Automate repetitive tasks and workflows.</li>
+    <li>Improve efficiency and execution speed.</li>
+    <li>Develop and refine scripting skills.</li>
+    <li>Experiment with new automation techniques.</li>
+    <li>Build reusable tools for future projects.</li>
 </ul>
 
 <h2>Contents</h2>
@@ -34,12 +49,15 @@ This repository contains scripts, utilities, and automation projects designed to
     <li>Workflow automation scripts</li>
     <li>Cybersecurity and DFIR utilities</li>
     <li>System administration tools</li>
-    <li>Productivity-focused utilities</li>
-    <li>Experimental projects</li>
+    <li>Productivity tools and helpers</li>
+    <li>Experimental scripting projects</li>
 </ul>
 
 <h2>Disclaimer</h2>
 
 <p>
-All projects in this repository are intended for educational, research, and productivity purposes. Users are responsible for ensuring their use complies with applicable laws, regulations, and organizational policies.
+This repository is intended for educational, research, and productivity purposes only. Users are responsible for ensuring compliance with applicable laws and organizational policies.
 </p>
+
+</div>
+
