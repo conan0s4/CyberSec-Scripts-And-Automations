@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b168826-6abf-4395-a3b9-b960bd64ee93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Introduction to Python for Defensive Security/info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/network analysis script/icmp extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction to Python for Defensive Security/VT_apiKey.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction to Python for Defensive Security/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction to Python for Defensive Security/ch3ck_Pl3ase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/fuzzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/Info Gathering and OSINT Scripts/fuzzer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web pentesting payloads/file upload vuln script/script.php" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/web pentesting payloads/file upload vuln script/script.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web pentesting payloads/file upload vuln script/script2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Python for Offensive Security-RedTeamLeaders/web pentesting payloads/file upload vuln script/script2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,50 +37,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.DNS 3xtractor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Endianness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Log Extractor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mutable XOR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.N3twork-Analyzer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Port Collation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SSL-TLS  certificate checker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Safe Float Comparison.executor&quot;: &quot;Run&quot;,
-    &quot;Python.command-exec.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crtsh_subs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crtsh_subs.py -h.executor&quot;: &quot;Run&quot;,
-    &quot;Python.enumerate-startup-program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fuzzer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.in-memory-malware-example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.info.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scraper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string builder benchmark.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string obfuscation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.subprocess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.truthiness audit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web scraper.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.DNS 3xtractor.executor": "Run",
+    "Python.Endianness.executor": "Run",
+    "Python.Log Extractor.executor": "Run",
+    "Python.Mutable XOR.executor": "Run",
+    "Python.N3twork-Analyzer.executor": "Run",
+    "Python.Port Collation.executor": "Run",
+    "Python.SSL-TLS  certificate checker.executor": "Run",
+    "Python.Safe Float Comparison.executor": "Run",
+    "Python.ch3ck_Pl3ase.executor": "Run",
+    "Python.command-exec.executor": "Run",
+    "Python.crtsh_subs.executor": "Run",
+    "Python.crtsh_subs.py -h.executor": "Run",
+    "Python.domain_checker.executor": "Run",
+    "Python.enumerate-startup-program.executor": "Run",
+    "Python.fuzzer.executor": "Run",
+    "Python.in-memory-malware-example.executor": "Run",
+    "Python.info.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.scraper.executor": "Run",
+    "Python.string builder benchmark.executor": "Run",
+    "Python.string obfuscation.executor": "Run",
+    "Python.subprocess.executor": "Run",
+    "Python.truthiness audit.executor": "Run",
+    "Python.web scraper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/loki/PycharmProjects/CyberSec-Scripts-And-Automations/Introduction to Python for Defensive Security/test files",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Defensive Security\test files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Defensive Security" />
+      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Defensive Security\test files" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders\Info Gathering and OSINT Scripts" />
       <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Offensive Security-RedTeamLeaders" />
-      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\scripts\network analysis script" />
-      <recent name="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\cs Ideas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.info">
+  <component name="RunManager" selected="Python.ch3ck_Pl3ase">
     <configuration name="N3twork-Analyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CyberSec-Scripts-And-Automations" />
       <option name="ENV_FILES" value="" />
@@ -98,6 +102,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/network analysis script/N3twork-Analyzer.py" />
       <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch3ck_Pl3ase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CyberSec-Scripts-And-Automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Python for Defensive Security" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Python for Defensive Security/ch3ck_Pl3ase.py" />
+      <option name="PARAMETERS" value="--filename app.js" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -127,6 +153,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="domain_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CyberSec-Scripts-And-Automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Python for Defensive Security" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\loki\PycharmProjects\CyberSec-Scripts-And-Automations\Introduction to Python for Defensive Security\domain_checker.py" />
+      <option name="PARAMETERS" value="--domain facebook.com" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="enumerate-startup-program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CyberSec-Scripts-And-Automations" />
       <option name="ENV_FILES" value="" />
@@ -149,37 +197,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CyberSec-Scripts-And-Automations" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction to Python for Defensive Security" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction to Python for Defensive Security/info.py" />
-      <option name="PARAMETERS" value="--domain facebook.com" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.ch3ck_Pl3ase" />
       <item itemvalue="Python.N3twork-Analyzer" />
       <item itemvalue="Python.crtsh_subs" />
       <item itemvalue="Python.enumerate-startup-program" />
-      <item itemvalue="Python.info" />
+      <item itemvalue="Python.domain_checker" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.info" />
+        <item itemvalue="Python.ch3ck_Pl3ase" />
+        <item itemvalue="Python.domain_checker" />
         <item itemvalue="Python.crtsh_subs" />
         <item itemvalue="Python.N3twork-Analyzer" />
         <item itemvalue="Python.enumerate-startup-program" />
