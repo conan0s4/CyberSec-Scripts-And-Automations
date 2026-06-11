@@ -1,4 +1,44 @@
-<h1 align="center" style="font-size: 80px;">CONAN0S4 SCRIPTS / AUTOMATIONS </h1>
+<div style="font-family: Arial, sans-serif;">
 
-<p align="center">@efficiency.</p>
+<div align="center">
+
+<h1 style="font-size:80px; margin-bottom:0;">
+CONAN0S4 SCRIPTS / AUTOMATIONS
+</h1>
+
+<p style="font-size:18px; color:#666;">
+Efficiency Through Automation
+</p>
+
+<!-- Badges -->
+<img src="https://img.shields.io/badge/Focus-Automation-blue" />
+<img src="https://img.shields.io/badge/Type-Scripts-green" />
+<img src="https://img.shields.io/badge/Purpose-Productivity-orange" />
+<img src="https://img.shields.io/badge/Status-Active-success" />
+
+</div>
+
+<hr style="margin:20px 0;">
+
+<h2>Overview</h2>
+
+<p>
+This repository is a curated collection of scripts and automation tools created for practice and educational purposes, with the goal of improving efficiency in cybersecurity workflows. It is primarily focused on blue teaming, especially DFIR (Digital Forensics and Incident Response), while also including a few offensive security (offsec) scripts for controlled learning, experimentation, and skill development.The main purpose of these tools is to streamline repetitive investigative and analysis tasks, support incident response workflows, and reinforce practical understanding of core cybersecurity concepts through hands-on implementation rather than purely theoretical study.
+
+</p>
+
+<div style="margin:15px 0;">
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#e3f2fd; border-radius:6px;">Automation</span>
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#e8f5e9; border-radius:6px;">Scripting</span>
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#fff3e0; border-radius:6px;">Productivity</span>
+<span style="display:inline-block; padding:6px 10px; margin:3px; background:#f3e5f5; border-radius:6px;">Experimentation</span>
+</div>
+
+<h2>Disclaimer</h2>
+
+<p>
+This repository is intended for educational, research, and productivity purposes only. Users are responsible for ensuring compliance with applicable laws and organizational policies.
+</p>
+
+</div>
 
