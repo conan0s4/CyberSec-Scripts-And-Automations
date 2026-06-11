@@ -18,32 +18,31 @@ import argparse
 import hashlib
 import requests
 import json
+import os
 
 def is_malicious(verify):
-
-
-    new_api_key = input("input_virus_total_api_key:")
-
-    # Open and load the JSON file
-    with open('VT_apiKey.json', 'r') as file:
+    if not os.path.exists("vtKey.json"):
+        new_api_key = input("input_virus_total_api_key:")
+        data = {"api_key": new_api_key}
+        with open("vtKey.json", "w") as outfile:
+            json.dump(data, outfile)
+    with open('vtKey.json', 'r') as file:
         config = json.load(file)
-
-    my_key = config.get("api_key")
-
-
+    my_key = config["api_key"]
     url = f"https://www.virustotal.com/api/v3/files/{verify}"
     headers = {
-        "x-apikey": api_key
+        "x-apikey": my_key
     }
     response = requests.get(url, headers=headers)
-    print(response.json())
+    if response.status_code==200:
+        print(response.json())
+    else:
+        print("error!")
 
-
-def hash(filename,verify):
+def hash(filename):
     MD5 = hashlib.md5()
     SHA1 = hashlib.sha1()
     SHA256 = hashlib.sha256()
-
     with open(filename, "rb") as f:
         while True:
             chunk = f.read(4096)
@@ -54,12 +53,13 @@ def hash(filename,verify):
             print(f"sha1: {SHA1.hexdigest()}")
             verify = SHA256.hexdigest()
             print(f"sha256: {verify}")
+    is_malicious(verify)
+
 def main():
     parser = argparse.ArgumentParser(prog='ch3ckPl3ase')
     parser.add_argument("--filename", help='verify file')
     args = parser.parse_args()
     filename = args.filename
     hash(filename)
-
 if __name__=="__main__":
     main()
