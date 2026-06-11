@@ -34,10 +34,19 @@ def is_malicious(verify):
         "x-apikey": my_key
     }
     response = requests.get(url, headers=headers)
-    if response.status_code==200:
-        print(response.json())
+    if response.status_code == 200:
+        data = response.json()
+        save = input("save as report? [y]: ").lower()
+        if save == "y":
+            with open("report.json", "w", encoding="utf-8") as file:
+                json.dump(data, file, indent=4, ensure_ascii=False)
+            print("Report saved to report.json")
+        else:
+            print(json.dumps(data, indent=4, ensure_ascii=False))
     else:
-        print("error!")
+        print(f"Request failed: {response.status_code}")
+        print(response.text)
+    print(data)
 
 def hash(filename):
     MD5 = hashlib.md5()
